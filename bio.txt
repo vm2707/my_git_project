@@ -1,1 +1,3 @@
 My new changes
+
+Contact Info: foo@yorku.ca
